@@ -7,8 +7,14 @@ Fly on the CSS
 body.flyonthecss {
   background-color: #f2f2f2;
 }
-body.flyonthecss-dark {
+body.flyonthecss.dark {
   background-color: #666666;
+}
+body.flyonthecss.alt {
+  background-color: #ffffff;
+}
+body.flyonthecss.alt.dark {
+  background-color: #333333;
 }
 .content.flyonthecss {
   background-color: #ffffff;
@@ -23,4 +29,7 @@ body.flyonthecss-dark {
 }
 .content.flyonthecss.monst {
   font-family: 'Montserrat', sans-serif;
+}
+.content.flyonthecss.mobile {
+  display: none;
 }
