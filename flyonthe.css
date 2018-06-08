@@ -36,12 +36,19 @@ body.flyonthecss.alt.dark {
 .flyonthecss.hero {
   padding: 20px;
   background-color: #f2f2f2;
-  color: #ffffff;
 }
 .flyonthecss.hero.curve {
   border-radius: 20px;
 }
 .flyonthecss.hero.dark {
+  background-color: #666666;
+  color: #ffffff;
+}
+.flyonthecss.hero.gradient.light {
+  background-color: #666666;
+  color: #ffffff;
+}
+.flyonthecss.hero.gradient.dark {
   background-color: #666666;
   color: #000000;
 }
