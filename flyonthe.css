@@ -33,3 +33,9 @@ body.flyonthecss.alt.dark {
 .content.flyonthecss.mobile {
   display: none;
 }
+.flyonthecss.gradient.light {
+  background: linear-gradient(to bottom right, #33ccff 0%, #6699ff 100%);
+}
+.flyonthecss.gradient.dark {
+  background: linear-gradient(to bottom right, #0066cc 0%, #000099 100%);
+}
