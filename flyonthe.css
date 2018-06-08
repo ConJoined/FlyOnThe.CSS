@@ -12,21 +12,15 @@ body.flyonthecss-dark {
 }
 .content.flyonthecss {
   background-color: #ffffff;
-  color: #000000;
+  background-color: #000000;
   font-family: 'Roboto', sans-serif;
+  padding: 0px;
+  margin: 0px;
 }
-.content.flyonthecss-dark {
+.content.flyonthecss.dark {
   background-color: #333333;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
 }
 .content.flyonthecss.monst {
-  background-color: #ffffff;
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-}
-.content.flyonthecss-dark.monst {
-  background-color: #333333;
-  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
 }
