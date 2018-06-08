@@ -1,1 +1,17 @@
-
+/*
+Fly on the CSS
+--------------
+..CONJOINED..
+*/
+body.flyonthecss {
+  background-color: #f2f2f2;
+}
+body.flyonthecss-dark {
+  background-color: #666666;
+}
+.content.flyonthecss {
+  background-color: #ffffff;
+}
+.content.flyonthecss-dark {
+  background-color: #333333;
+}
