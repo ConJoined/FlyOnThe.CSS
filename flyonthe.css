@@ -32,6 +32,9 @@ body.flyonthecss.alt.dark {
 .content.flyonthecss.monst {
   font-family: 'Montserrat', sans-serif;
 }
+.content.flyonthecss.shadow {
+box-shadow: 0px 5px 5px rgb(32,32,32);
+}
 .content.flyonthecss.mobile {
   display: none;
 }
